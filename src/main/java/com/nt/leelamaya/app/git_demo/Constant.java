@@ -1,5 +1,5 @@
 package com.nt.leelamaya.app.git_demo;
 
-public lass Constant {
+public class Constant {
    public static  String DATA_TYPE="java  techie";
 }
